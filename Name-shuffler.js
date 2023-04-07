@@ -6,4 +6,10 @@ which first name is swapped with last name.
 
 // Solution
 
-function
+function nameShuffle(str){
+  return str.split(' ').reverse().join(' ')
+}
+
+// or
+
+const nameShuffler = str => str.split(' ').reverse().join(' ');
