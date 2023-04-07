@@ -6,3 +6,4 @@ which first name is swapped with last name.
 
 // Solution
 
+function
